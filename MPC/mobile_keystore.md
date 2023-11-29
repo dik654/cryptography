@@ -1,4 +1,5 @@
-모바일용 비밀키 저장소
-IOS - Secure Enclave 
+모바일용 비밀키 저장소 <br/>
+IOS - Secure Enclave <br/>
+https://support.apple.com/ko-kr/guide/security/sec59b0b31ff/web
 Android - the hardware-backed keystore
-
+https://source.android.com/docs/security/features/keystore?hl=ko
